@@ -21,6 +21,15 @@
     src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
   </script>
 
+    {% if page.mapbox %}
+  <script src='https://api.mapbox.com/mapbox.js/v3.0.1/mapbox.js'></script>
+  <link href='https://api.mapbox.com/mapbox.js/v3.0.1/mapbox.css' rel='stylesheet' />
+  <style>
+    body { margin:0; padding:0; }
+    .map { margin-right: auto; margin-left: auto; top:0; bottom:0; height: 300px}
+  </style>
+    {% endif %}
+
   {% include google_analytics.html %}
 
 </head>
