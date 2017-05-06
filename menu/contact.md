@@ -3,4 +3,4 @@ layout: page
 title: Contact
 ---
 
-If you have any questions or comments, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+You're welcome to [tweet me](https://twitter.com/intent/tweet?text=%40mikepsaris), or use any of the social/email links at the top right or bottom of this page to contact me.
