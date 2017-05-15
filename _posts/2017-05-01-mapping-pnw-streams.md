@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Mapping Streams in The Pacific Northwest"
-categories: journal
-tags: [documentation,sample]
+categories: 
+tags: [Web Design]
 image:
   feature: mapbox-map.png
   teaser: mapbox-map.png

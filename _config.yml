@@ -1,11 +1,11 @@
 # Site Settings
 title:               Mike Psaris-Weis
 tagline:             
-description:
-baseurl:            #"/Lagrange"
-url:                #"https://lenpaul.github.io"
+description:        A personal website of Mike Psaris-Weis
+baseurl:            #"/blog"
+url:                #"https://mikepsaris.github.io"
 github:
-  url:               #"https://lenpaul.github.io/Lagrange"
+  url:               #"https://mikepsaris.github.io/blog"
 author:
   name:              "Mike Psaris-Weis"
   email:             "mike.psaris@gmail.com"
