@@ -5,7 +5,7 @@ title: About
 
 <img src="{{ site.github.url }}/images/mike-bike-gorge.jpg">
 
-Hi. My name is Mike Psaris-Weis. I live in Portland, OR with my wife <a href="https://twitter.com/kristinaweis" target="_blank">Kristina</a> and I work at the <a href="http://neea.org/" target="_blank">Northwest Energy Efficiency Alliance</a> as a <a href="http://neea.org/about-neea/staff/bio-detail/mike-psaris-weis" target="_blank">Market Intelligence Analyst</a>.
+Hi. My name is Mike Psaris-Weis. I live in Portland, OR, and I work at the <a href="http://neea.org/" target="_blank">Northwest Energy Efficiency Alliance</a> as a <a href="http://neea.org/about-neea/staff/bio-detail/mike-psaris-weis" target="_blank">Market Intelligence Analyst</a>.
 
 When I'm not in the office, you can find me biking, rafting, hiking, skiing or snowshoeing.
 
