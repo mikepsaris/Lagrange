@@ -1,13 +1,13 @@
 # Site Settings
-title:               Mike Psaris-Weis
+title:               Mike Psaris
 tagline:             
-description:        A personal website of Mike Psaris-Weis
+description:        A personal website of Mike Psaris
 baseurl:            #"/blog"
 url:                #"https://mikepsaris.github.io"
 github:
   url:               #"https://mikepsaris.github.io/blog"
 author:
-  name:              "Mike Psaris-Weis"
+  name:              "Mike Psaris"
   email:             "mike.psaris@gmail.com"
   twitter:           "mikepsaris"
   instagram:         "mikepsaris"
